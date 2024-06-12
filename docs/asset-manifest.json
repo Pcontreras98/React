@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-testimonios-first-proyect/static/css/main.b7fe768a.css",
-    "main.js": "/React-testimonios-first-proyect/static/js/main.a6bf45ee.js",
-    "static/media/testimonio-emma.png": "/React-testimonios-first-proyect/static/media/testimonio-emma.add10415a5668325d2f2.png",
-    "static/media/testimonio-sarah.png": "/React-testimonios-first-proyect/static/media/testimonio-sarah.2c504d1ebaf1961e4a40.png",
-    "static/media/testimonio-shawn.png": "/React-testimonios-first-proyect/static/media/testimonio-shawn.0d373888087fb18fc145.png",
-    "index.html": "/React-testimonios-first-proyect/index.html",
-    "main.b7fe768a.css.map": "/React-testimonios-first-proyect/static/css/main.b7fe768a.css.map",
-    "main.a6bf45ee.js.map": "/React-testimonios-first-proyect/static/js/main.a6bf45ee.js.map"
+    "main.css": "/React-Calculadora/static/css/main.b7fe768a.css",
+    "main.js": "/React-Calculadora/static/js/main.16047f93.js",
+    "static/media/testimonio-emma.png": "/React-Calculadora/static/media/testimonio-emma.add10415a5668325d2f2.png",
+    "static/media/testimonio-sarah.png": "/React-Calculadora/static/media/testimonio-sarah.2c504d1ebaf1961e4a40.png",
+    "static/media/testimonio-shawn.png": "/React-Calculadora/static/media/testimonio-shawn.0d373888087fb18fc145.png",
+    "index.html": "/React-Calculadora/index.html",
+    "main.b7fe768a.css.map": "/React-Calculadora/static/css/main.b7fe768a.css.map",
+    "main.16047f93.js.map": "/React-Calculadora/static/js/main.16047f93.js.map"
   },
   "entrypoints": [
     "static/css/main.b7fe768a.css",
-    "static/js/main.a6bf45ee.js"
+    "static/js/main.16047f93.js"
   ]
 }
