@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7fe768a.css",
-    "main.js": "/static/js/main.38516e72.js",
-    "static/media/testimonio-emma.png": "/static/media/testimonio-emma.add10415a5668325d2f2.png",
-    "static/media/testimonio-sarah.png": "/static/media/testimonio-sarah.2c504d1ebaf1961e4a40.png",
-    "static/media/testimonio-shawn.png": "/static/media/testimonio-shawn.0d373888087fb18fc145.png",
-    "index.html": "/index.html",
-    "main.b7fe768a.css.map": "/static/css/main.b7fe768a.css.map",
-    "main.38516e72.js.map": "/static/js/main.38516e72.js.map"
+    "main.css": "/React-testimonios-first-proyect/static/css/main.b7fe768a.css",
+    "main.js": "/React-testimonios-first-proyect/static/js/main.a6bf45ee.js",
+    "static/media/testimonio-emma.png": "/React-testimonios-first-proyect/static/media/testimonio-emma.add10415a5668325d2f2.png",
+    "static/media/testimonio-sarah.png": "/React-testimonios-first-proyect/static/media/testimonio-sarah.2c504d1ebaf1961e4a40.png",
+    "static/media/testimonio-shawn.png": "/React-testimonios-first-proyect/static/media/testimonio-shawn.0d373888087fb18fc145.png",
+    "index.html": "/React-testimonios-first-proyect/index.html",
+    "main.b7fe768a.css.map": "/React-testimonios-first-proyect/static/css/main.b7fe768a.css.map",
+    "main.a6bf45ee.js.map": "/React-testimonios-first-proyect/static/js/main.a6bf45ee.js.map"
   },
   "entrypoints": [
     "static/css/main.b7fe768a.css",
-    "static/js/main.38516e72.js"
+    "static/js/main.a6bf45ee.js"
   ]
 }
